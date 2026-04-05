@@ -38,3 +38,4 @@ with each other and solve their doubts easily.
 - Nana Kojo
 
 I'm a flutter developer...
+# academic-master-app
